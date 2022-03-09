@@ -7,5 +7,13 @@
     "symbol": "SCRG",
     "decimals": 18,
     "status": "active",
-    "id": "0xc6E6522FBAa102Ed962fD8bb5C1392ccE97eB89E"
+    "id": "0xc6E6522FBAa102Ed962fD8bb5C1392ccE97eB89E",
+    "links": [
+        { "Telegram": "https://t.me/thescroogetoken" },
+        { "Twitter": "https://twitter.com/TheScroogeToken" },
+        { "Instagram": "https://www.instagram.com/scroogetoken"},
+        { "Reddit": "https://www.reddit.com/r/ScroogeToken"},
+        { "Youtube": "https://www.youtube.com/channel/UCr6cP7Qe4Xv6pnajO2H-kqA" },
+        { "Github": "https://github.com/ScroogeTeam" }
+    ]
 }
