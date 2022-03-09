@@ -1,0 +1,11 @@
+{
+    "name": "Scrooge Token",
+    "website": "https://www.scroogetoken.org",
+    "description": "SCRG is 100% open-source and secure smartchain token issued by Scrooge Team",
+    "explorer": "https://bscscan.com/token/0xc6E6522FBAa102Ed962fD8bb5C1392ccE97eB89E",
+    "type": "BEP20",
+    "symbol": "SCRG",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xc6E6522FBAa102Ed962fD8bb5C1392ccE97eB89E"
+}
